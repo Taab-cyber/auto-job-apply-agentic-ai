@@ -125,6 +125,8 @@ def show_stats():
 
     print(f"\n📋 Recent applications:")
     for entry in log[-10:]:
+        if "job_title" not in entry:
+            continue
         date = entry.get("applied_at", "")[:10]
         print(f"  • [{date}] {entry['job_title']} @ {entry['company_name']} — {entry['status']}")
 
