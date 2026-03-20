@@ -1,0 +1,83 @@
+# ============================================================
+#  YOUR JOB SEARCH PREFERENCES
+#  Edit this file to tell the AI what kind of jobs to find
+# ============================================================
+
+candidate:
+  name: "Your Full Name"
+  email: "your.email@gmail.com"
+  phone: "+1 (555) 000-0000"
+  linkedin: "https://linkedin.com/in/yourprofile"
+  portfolio: "https://yourportfolio.com"   # Leave blank if none
+
+job_search:
+  # List of job titles to search for (the AI will search for all of these)
+  titles:
+    - "Software Engineer"
+    - "Backend Developer"
+    - "Python Developer"
+    # Add or remove titles as needed
+
+  # Location preferences
+  location: "San Francisco, CA"       # City, State or "Remote"
+  remote_ok: true                     # Accept fully remote roles?
+  hybrid_ok: true                     # Accept hybrid roles?
+  onsite_ok: false                    # Accept fully onsite roles?
+
+  # Experience level
+  experience_level:
+    - "mid-level"                     # entry-level, mid-level, senior, lead
+    - "senior"
+
+  # Salary expectations (leave as 0 to not filter by salary)
+  salary_min: 100000                  # Minimum acceptable salary (USD/year)
+  salary_max: 0                       # 0 = no upper limit
+
+  # Employment type
+  employment_type:
+    - "full-time"                     # full-time, part-time, contract, internship
+
+  # How recent should job postings be? (in days)
+  max_posting_age_days: 7
+
+resume_tailoring:
+  # Skills to ALWAYS emphasize regardless of job
+  core_skills:
+    - "Python"
+    - "REST APIs"
+    - "SQL"
+    # Add your skills here
+
+  # Skills to mention only if relevant to the job
+  secondary_skills:
+    - "Docker"
+    - "AWS"
+    - "React"
+
+  # How aggressively to tailor the resume
+  # conservative = minor keyword adjustments only
+  # moderate     = reorder bullet points, add relevant keywords
+  # aggressive   = rewrite sections to match job description
+  tailoring_level: "moderate"
+
+cover_letter:
+  tone: "professional"                # professional, friendly, formal, conversational
+  max_words: 350
+  include_why_company: true           # Research and mention why you want THIS company
+  include_key_achievement: true       # Pick most relevant achievement to highlight
+
+blacklist:
+  # Companies to NEVER apply to
+  companies:
+    - "Company I Had Bad Experience With"
+
+  # Keywords in job titles to skip
+  title_keywords_to_avoid:
+    - "unpaid"
+    - "intern"                        # Remove if you want internships
+
+  # Keywords in job descriptions that are red flags
+  description_red_flags:
+    - "must work weekends"
+    - "no work-life balance"
+    - "rockstar"                      # Often indicates toxic culture

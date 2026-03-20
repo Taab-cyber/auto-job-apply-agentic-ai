@@ -1,0 +1,65 @@
+REPLACE THIS ENTIRE FILE WITH YOUR ACTUAL RESUME
+================================================
+
+Below is a template. Fill it in with your real information,
+then delete the instructions at the top of this file.
+
+Keep it as plain text — no tables, columns, or special formatting.
+The AI will reformat it as needed for each application.
+
+================================================
+
+YOUR FULL NAME
+your.email@gmail.com | +1 (555) 000-0000 | linkedin.com/in/yourprofile | yourportfolio.com
+City, State
+
+SUMMARY
+-------
+[2-3 sentences about who you are professionally. Example:]
+Software engineer with 5 years of experience building scalable backend systems
+in Python and Go. Passionate about clean architecture, developer tooling, and
+shipping products that real users love. Currently seeking senior engineering roles
+at mission-driven companies.
+
+SKILLS
+------
+Languages: Python, JavaScript, SQL, [add yours]
+Frameworks: Django, FastAPI, React, [add yours]
+Tools: Docker, AWS, PostgreSQL, Redis, Git, [add yours]
+Soft skills: Technical leadership, cross-functional collaboration, mentoring
+
+EXPERIENCE
+----------
+Job Title | Company Name | Start Date – End Date (or "Present")
+Location or "Remote"
+
+• [Achievement-focused bullet point — use numbers when possible]
+  Example: "Reduced API response time by 40% by implementing Redis caching layer"
+• [Another achievement]
+• [Another achievement]
+• [Another achievement]
+
+Job Title | Company Name | Start Date – End Date
+Location or "Remote"
+
+• [Achievement]
+• [Achievement]
+• [Achievement]
+
+EDUCATION
+---------
+Degree, Major | University Name | Graduation Year
+[GPA if above 3.5, relevant coursework, honors]
+
+PROJECTS (Optional)
+------------------
+Project Name | [Link to GitHub/Demo]
+[2-sentence description of what it does and the tech stack used]
+
+CERTIFICATIONS (Optional)
+--------------------------
+• Certification Name — Issuing Organization (Year)
+
+LANGUAGES (Optional)
+---------------------
+• English (Native), Hindi (Fluent), [Others]

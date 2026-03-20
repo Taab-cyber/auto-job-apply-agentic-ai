@@ -1,0 +1,18 @@
+[
+  {
+    "_comment": "This is an example entry. Real entries will be added automatically when you run the crew.",
+    "_example": {
+      "id": 1,
+      "job_title": "Senior Python Developer",
+      "company_name": "Example Corp",
+      "job_url": "https://example.com/jobs/senior-python",
+      "application_method": "email",
+      "status": "applied",
+      "applied_at": "2024-01-15T09:30:00",
+      "notes": "Strong match — 8/10 skill overlap",
+      "response_received": true,
+      "response_type": "interview_request",
+      "response_date": "2024-01-17T14:22:00"
+    }
+  }
+]

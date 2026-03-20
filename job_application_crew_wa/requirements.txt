@@ -1,0 +1,31 @@
+# Core framework
+crewai>=0.28.0
+crewai-tools>=0.1.0
+
+# LLM
+openai>=1.0.0
+
+# Web scraping & search
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+serper-dev>=0.1.0
+
+# Document handling
+python-docx>=1.1.0
+pypdf2>=3.0.0
+reportlab>=4.0.0
+
+# Email
+secure-smtplib
+imaplib2>=3.6
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+
+# Utilities
+colorlog>=6.7.0
+rich>=13.0.0
+schedule>=1.2.0
