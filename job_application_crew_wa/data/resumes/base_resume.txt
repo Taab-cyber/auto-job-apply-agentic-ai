@@ -1,65 +1,46 @@
-REPLACE THIS ENTIRE FILE WITH YOUR ACTUAL RESUME
-================================================
-
-Below is a template. Fill it in with your real information,
-then delete the instructions at the top of this file.
-
-Keep it as plain text — no tables, columns, or special formatting.
-The AI will reformat it as needed for each application.
-
-================================================
-
-YOUR FULL NAME
-your.email@gmail.com | +1 (555) 000-0000 | linkedin.com/in/yourprofile | yourportfolio.com
-City, State
+MEHTAAB KOHLI
+mehtaabkohli@gmail.com | +91 81948 21177 | Jalandhar, India
 
 SUMMARY
 -------
-[2-3 sentences about who you are professionally. Example:]
-Software engineer with 5 years of experience building scalable backend systems
-in Python and Go. Passionate about clean architecture, developer tooling, and
-shipping products that real users love. Currently seeking senior engineering roles
-at mission-driven companies.
-
-SKILLS
-------
-Languages: Python, JavaScript, SQL, [add yours]
-Frameworks: Django, FastAPI, React, [add yours]
-Tools: Docker, AWS, PostgreSQL, Redis, Git, [add yours]
-Soft skills: Technical leadership, cross-functional collaboration, mentoring
-
-EXPERIENCE
-----------
-Job Title | Company Name | Start Date – End Date (or "Present")
-Location or "Remote"
-
-• [Achievement-focused bullet point — use numbers when possible]
-  Example: "Reduced API response time by 40% by implementing Redis caching layer"
-• [Another achievement]
-• [Another achievement]
-• [Another achievement]
-
-Job Title | Company Name | Start Date – End Date
-Location or "Remote"
-
-• [Achievement]
-• [Achievement]
-• [Achievement]
+Driven machine learning student with hands-on project experience and a background in startup and community initiatives. Currently exploring NLP and large language models while building practical ML solutions. Known for taking ownership of projects, assembling small teams, and coordinating execution to deliver outcomes even when learning new technologies on the go.
 
 EDUCATION
 ---------
-Degree, Major | University Name | Graduation Year
-[GPA if above 3.5, relevant coursework, honors]
+Minor Degree in AI and ML | IIT Mandi & Masai School (Virtual) | 06/2024 - 06/2025
 
-PROJECTS (Optional)
-------------------
-Project Name | [Link to GitHub/Demo]
-[2-sentence description of what it does and the tech stack used]
+BCA - Bachelor of Computer Applications | Apeejay College of Fine Arts, Jalandhar | 07/2023 - 06/2026 (Expected)
 
-CERTIFICATIONS (Optional)
---------------------------
-• Certification Name — Issuing Organization (Year)
+TECHNICAL SKILLS
+----------------
+Languages & Tools: Python, Google Colab, Jupyter, Git/GitHub, Power BI
+ML/AI: Machine Learning, Deep Learning, Data Analytics, RoBERTa/BERT (exploring), LLMs (exploring), Hugging Face (exploring)
 
-LANGUAGES (Optional)
----------------------
-• English (Native), Hindi (Fluent), [Others]
+SOFT SKILLS
+-----------
+Team Leadership & Delegation, Project Coordination & Execution, Communication & Presentation, Teaching & Mentoring, Entrepreneurship & Business Analysis
+
+EXPERIENCE
+----------
+Remote ML Instructor (10th Grade Fundamentals) | Sunbeam, Gonda (Remote) | 11/2025 - 11/2025
+- Taught fundamentals of AI concepts and machine learning theory to 10th grade students using interactive, hands-on practical projects.
+- Simplified complex concepts into actionable learning modules, building student confidence in foundational AI and data science principles.
+
+Incharge, Placement Cell | Apeejay College of Fine Arts, Jalandhar | 09/2024 - 09/2025
+- Guided ~40 students through resume building and internship readiness; organized an internship drive where 14 students interviewed and 7 received offers.
+- Coordinated core team members, delegated tasks across resume review, event logistics, and company outreach to maintain timelines and program quality.
+
+Portfolio Manager Intern - Fail Fast Program | IM Punjab (Virtual) | 12/2023 - 01/2024
+
+PROJECTS
+--------
+AI Auto-Grading System (Undergoing) | OCR + LLM + Automation Pipeline
+- Designing a modular pipeline for evaluating handwritten answer sheets using OCR and rubric-aware LLM evaluation with automatic score upload to university systems.
+
+AI vs Human Text Detector (RoBERTa-based) | NLP, RoBERTa-base, Python, Hugging Face
+- Implemented a RoBERTa-base classifier trained on custom database of 8,000 samples to distinguish AI-generated text from human-written content.
+- Overcame overfitting challenges through regularization and dataset augmentation, achieving 91% accuracy on validation set.
+
+Depression Detector from Stress & Sleep Data | ML Regression, Python, Google Colab
+- Collected survey data from 300 adolescents and computed stress scores using the Perceived Stress Scale (PSS) with full EDA and data cleaning.
+- Built a regression model to predict depression-related risk indicators, demonstrating end-to-end ML workflow from data collection to model evaluation.
