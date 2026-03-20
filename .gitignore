@@ -13,7 +13,7 @@ dist/
 build/
 
 # Logs
-logs/*.log
+*.log
 
 # IDE
 .vscode/
